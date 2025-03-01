@@ -6,3 +6,6 @@ __pycache__/*
 *.mp4
 model
 model/*
+.venv/
+.pdm-python
+.python-version
